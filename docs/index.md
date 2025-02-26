@@ -7,9 +7,8 @@
 #
 layout: home
 ---
+Example text
 
-## Description
-TODO
+### Another heading
 
-## Usage
-TODO
+more example text
