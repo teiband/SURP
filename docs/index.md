@@ -9,8 +9,8 @@ title: "SURP"
 
 ## Description
 
-The dataset contains motions and forces of human surface processing demonstrations.
-Each subject used a powered sanding tool to process different geometries.
+The dataset contains videos, motions, and forces of human surface processing demonstrations.
+Each subject used a powered sanding tool to process different geometries as shown below.
 
 ### Box
 
