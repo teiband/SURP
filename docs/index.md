@@ -48,3 +48,16 @@ Each subject used a powered sanding tool to process different geometries.
 #### Demonstrations
 ![wood corners](images/wood-all.png)
 
+
+## Reference
+
+You can find more information in the reference. Please consider citing it if you find it useful for your research.
+```
+@InProceedings{,
+  author    = {Eiband, Thomas and Leimbach, Lars and Nottensteiner, Korbinian and Albu-Schäffer, Alin},
+  booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  title     = {Extraction of robotic surface processing strategies from human demonstrations},
+  year      = {2025},
+  pages     = {(under review)},
+}
+```
