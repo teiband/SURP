@@ -48,6 +48,9 @@ Each subject used a powered sanding tool to process different geometries as show
 #### Demonstrations
 ![wood corners](images/wood-all.png)
 
+## Data Processing
+
+[Python script to read dataset](https://github.com/teiband/SURP/blob/main/read_data.py)
 
 ## Reference
 
