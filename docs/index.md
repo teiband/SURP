@@ -12,6 +12,9 @@ title: "SURP"
 The dataset contains videos, motions, and forces of human surface processing demonstrations.
 Each subject used a powered sanding tool to process different geometries as shown below.
 
+A description about data dimensions and a python script to read the dataset can be found here:
+* [read_data.py](https://github.com/teiband/SURP/blob/main/read_data.py)
+
 ### Box
 
 #### Model
@@ -48,9 +51,6 @@ Each subject used a powered sanding tool to process different geometries as show
 #### Demonstrations
 ![wood corners](images/wood-all.png)
 
-## Data Processing
-
-[Python script to read dataset](https://github.com/teiband/SURP/blob/main/read_data.py)
 
 ## Reference
 
