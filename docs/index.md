@@ -53,6 +53,8 @@ A description about data dimensions and a python script to read the dataset can 
 
 ## Reference
 
+* [Preprint PDF](https://elib.dlr.de/215557/)
+
 You can find more information in the reference. Please consider citing it if you find it useful for your research.
 ```
 @InProceedings{,
@@ -60,6 +62,6 @@ You can find more information in the reference. Please consider citing it if you
   booktitle = {IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
   title     = {Extraction of robotic surface processing strategies from human demonstrations},
   year      = {2025},
-  pages     = {(under review)},
+  pages     = {(accepted)},
 }
 ```
