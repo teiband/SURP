@@ -9,7 +9,7 @@ title: "SURP"
 
 ## Description
 
-The dataset contains videos, motions, and forces of 21 human subjects of surface processing demonstrations applied on 4 different workpieces using a powered sanding tool.
+The dataset contains videos, motions, and forces of human surface processing demonstrations. Each of the 21 subjects used a powered sanding tool to process 4 different workpieces.
 
 A description about data dimensions and a python script to read the dataset can be found here:
 * [read_data.py](https://github.com/teiband/SURP/blob/main/read_data.py)
