@@ -5,12 +5,11 @@ title: "SURP"
 
 ## Download
 
-[SURP.zip](https://drive.google.com/file/d/1ujfUR7fg0E1GqgS1q7UEPx484doiOBhj/view?usp=sharing)
+https://zenodo.org/records/16536274
 
 ## Description
 
-The dataset contains videos, motions, and forces of human surface processing demonstrations.
-Each subject used a powered sanding tool to process different geometries as shown below.
+The dataset contains videos, motions, and forces of 21 human subjects of surface processing demonstrations applied on 4 different workpieces using a powered sanding tool.
 
 A description about data dimensions and a python script to read the dataset can be found here:
 * [read_data.py](https://github.com/teiband/SURP/blob/main/read_data.py)
