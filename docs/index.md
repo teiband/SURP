@@ -5,7 +5,7 @@ title: "SURP"
 
 ## Download
 
-* [Zenodo Dataset](https://zenodo.org/records/16536274)
+* [Zenodo Dataset](https://doi.org/10.5281/zenodo.16536273)
 
 ## Description
 
